@@ -1,2 +1,11 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name:Lauren Dunn
+
+Three example apps of simliar size/complexity:
+
+1. A password protected site to host a photo/image collection with ability to navigate in between images (like a slideshow).
+2. A really basic translation/vocab quiz (for learning a new language):
+	-has different links to different difficulty levels or topic themes (e.g. colors, animals, foods)
+	-selects a word at random from database, prompts the user for word meaning 
+	-gives the user a "correct" or "incorrect" response
+3. A site with ability for users to leave a comment on a song or image hosted by the site. 
