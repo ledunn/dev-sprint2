@@ -19,25 +19,22 @@ print middle('')
 
 def is_palindrome(word):
 	if len(word)<2:
-		return "False"
+		pass
 
-	if first(word)!= last(word):
-		print 'False'
+	elif len(word)==3 and first(middle(word))== last(middle(word)):
+		return True
+	if first(word)== last(word):
+		return is_palindrome(middle(word))
+	else:
+		return False	
+				
 
-	else: print'True'
+x=is_palindrome('racecar')
+print x
 
-	return is_palindrome(word[-1])
+#Ex 6.8:
 
-
-print is_palindrome('racecar')
-
-
-# Ex 6.8:
-
-def is_power(a,b):
-	if a%b and (a%b)%b
-		print "Yes"
-		else: print "No"	
-
-print is_power(2,4)
+def gcd(a,b):
+	gcd(a,b)=gcd(b,r)
+	gcd(a,0)=a	
 

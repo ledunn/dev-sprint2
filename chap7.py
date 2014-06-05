@@ -3,12 +3,24 @@
 
 
 # Ex. 7.5
-def estimate)pi:
+
+def factorial:
+	0! = 1
+	n! = n(n-1)!
+
+import math
+
+print math.sqrt(4)
+
+
+
+def estimate_pi():
 	while True:
-
-		if 
-
-		break
+		x=((2*math.sqrt(2))/9801)*((4k)!(1103 + 26390k)/((k!)^4)(396^4k))
+		
+		if x<1e-15
+			return
+	print estimate_pi()		
 
 
 
